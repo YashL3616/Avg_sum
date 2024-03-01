@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
-int main(){
+int main()
+{
   int n,sum=0;
   cout<<"Enter no of intergers you are going to enter : ";
   cin>>n;
