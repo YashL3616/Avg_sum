@@ -1,6 +1,5 @@
 //using exception handling
 #include <iostream>
-
 class Number {
 public:
     virtual double getAverage() = 0;
